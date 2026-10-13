@@ -1,5 +1,5 @@
 {
-  "current_version": "1.4",
+  "current_version": "1.5",
   "update_url": "https://raw.githubusercontent.com/AndreySivokozov/ReconWarnlogChecker/refs/heads/py/recon_warnlog.luac",
   "description": "Что нового в версии 1.4:\n- Исправлена проблема, что не работал скрипт."
 }
